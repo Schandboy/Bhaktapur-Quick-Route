@@ -1,0 +1,4 @@
+#Tue May 22 11:22:38 NPT 2018
+base.0=C\:\\Users\\nissus\\Downloads\\App_dijkstra1\\App_dijkstra1\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\19
+path.0=classes.dex
+renamed.0=classes.dex
